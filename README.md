@@ -1,4 +1,4 @@
 # AI10530100
 AI10530100
-
-My name is Wayne Liu 我的名字叫做修彣。
+ 我的名字叫做修彣。
+My name is Wayne Liu, and I study in Chayoang University of Technology.
